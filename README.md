@@ -22,7 +22,7 @@ I’m focused on applying these skills to real-world projects and challenges.
 - **FlowDraw** - a tool for creating and sharing flowcharts, UML, and network diagrams, working in the frontend team using React to build the UI and improve interactivity
 
 ## 📫 How to reach me? 
-You can reach me via email or through my LinkedIn profile:
+You can reach me via email or through my LinkedIn profile
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicjaszmigiel/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szmigiel.alicja1@gmail.com)
