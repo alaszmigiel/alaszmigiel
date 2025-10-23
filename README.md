@@ -19,7 +19,7 @@ I’m focused on applying these skills to real-world projects and challenges.
 
 ## 👩🏼‍💻 Currently Working On 
 - **Obesity Prediction Model** – developing a machine learning model to predict obesity levels based on lifestyle and health data  
-- **Engineering Thesis** – designing a **support system for managing personalized travel agency offers**, integrating data analysis and recommendation methods  
+- **Engineering Thesis** – designing a support system for managing personalized travel agency offers, integrating data analysis and recommendation methods  
 
 ## 📫 How to reach me? 
 You can reach me via email or through my LinkedIn profile
