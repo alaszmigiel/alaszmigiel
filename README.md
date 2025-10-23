@@ -2,7 +2,7 @@
 
 
 ## 🙋🏼‍♀️ About Me
-I'm a 3rd-year **Computer Science** student at the Military University of Technology (WAT), specializing in **Data Science**.
+I'm a 4rd-year **Computer Science** student at the Military University of Technology (WAT), specializing in **Data Science**.
 I enjoy building applications and exploring data-driven solutions, while also expanding my knowledge in AI and data science. 
 I’m focused on applying these skills to real-world projects and challenges.
 
@@ -14,12 +14,12 @@ I’m focused on applying these skills to real-world projects and challenges.
 
 ## 🌱 Currently Learning
 - **Data Analysis** with **Python** – using Pandas and NumPy
-- **React** – dynamic web applications
 - **R** – statistical models and data visualization
+- **Django**
 
 ## 👩🏼‍💻 Currently Working On 
-- **Memory & Reflexes Test App** - a web app to test users' reaction times and memory through engaging mini-games, with real-time scoring and rankings
-- **FlowDraw** - a tool for creating and sharing flowcharts, UML, and network diagrams, working in the frontend team using React to build the UI and improve interactivity
+- **Obesity Prediction Model** – developing a machine learning model to predict obesity levels based on lifestyle and health data  
+- **Engineering Thesis** – designing a **support system for managing personalized travel agency offers**, integrating data analysis and recommendation methods  
 
 ## 📫 How to reach me? 
 You can reach me via email or through my LinkedIn profile
