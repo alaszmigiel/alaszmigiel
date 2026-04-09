@@ -2,9 +2,7 @@
 
 
 ## 🙋🏼‍♀️ About Me
-I'm a 4rd-year **Computer Science** student at the Military University of Technology (WAT), specializing in **Data Science**.
-I enjoy building applications and exploring data-driven solutions, while also expanding my knowledge in AI and data science. 
-I’m focused on applying these skills to real-world projects and challenges.
+I’m a **Computer Science** graduate from the Military University of Technology (WAT), currently pursuing a Master’s degree in Data Science. I enjoy working on data-driven projects and learning more about AI. Right now, I’m a part of the voicebot team at Play as an intern.
 
 ## 💻 Technical Stack
 - **Languages:** Python, Java, C++, C, SQL
@@ -15,11 +13,9 @@ I’m focused on applying these skills to real-world projects and challenges.
 ## 🌱 Currently Learning
 - **Data Analysis** with **Python** – using Pandas and NumPy
 - **R** – statistical models and data visualization
-- **Django**
 
 ## 👩🏼‍💻 Currently Working On 
-- **Obesity Prediction Model** – developing a machine learning model to predict obesity levels based on lifestyle and health data  
-- **Engineering Thesis** – designing a support system for managing personalized travel agency offers, integrating data analysis and recommendation methods  
+**Engineering Thesis** – designed and developed a personalized travel agency support system with booking functionality – currently expanding it with AI recommendation features. 
 
 ## 📫 How to reach me? 
 You can reach me via email or through my LinkedIn profile
